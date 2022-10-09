@@ -1,6 +1,6 @@
 ![image](https://img.shields.io/badge/project-6-red)
 
-## Project-1  [live Link](https://tanay123456789.github.io/monstera-cera/)
+## Project-6  [live Link](https://tanay123456789.github.io/monstera-cera/)
 
 **Name:** Tanay Dwivedi
 
